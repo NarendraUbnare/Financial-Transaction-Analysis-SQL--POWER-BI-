@@ -21,7 +21,7 @@ It integrates multiple datasets, including **cards data, user profiles, merchant
 
 ### 🧩 Core Components
 
-* Data transformation and cleaning in **Power Query**.
+* Data transformation and cleaning in **Power Query** and **MySql**.
 * Relationship modeling across user, card, and transaction tables.
 * DAX measures for KPIs like:
 
@@ -61,38 +61,37 @@ KPIs showing totals (users, spend, debt, limits).
 
 ## 🔍 Key Insights & Findings
 
-Balanced Gender Ratio:
+****Balanced Gender Ratio:****
 The user base is almost evenly split — 50.8% female and 49.2% male.
 
-Geographic Concentration:
+****Geographic Concentration:****
 Highest user activity in California, Texas, and New York.
 
-Card Preference:
+****Card Preference:****
 Debit cards dominate with 57% share, followed by credit at 33%.
 
-Credit Exposure:
+****Credit Exposure:****
 Mastercard and Visa together account for ~68% of total credit limits.
 
-Service Spend Trends:
-
+****Service Spend Trends:****
 Top spending categories: Money Transfer, Grocery, and Wholesale Clubs.
-
 Indicates focus on daily necessities and remittances.
 
-High Chip Adoption:
+****High Chip Adoption:****
 89% of cards are chip-enabled, reflecting secure payment adoption.
 
-Risk & Debt Insights:
+****Risk & Debt Insights:****
 Total debt = $45.9M vs Amount received = $127.4M, showing strong liquidity.
 
-Transaction Mode:
+****Transaction Mode:****
 Swipe transactions ($3.24M) dominate over online ones.
 
-Income & Spending Link:
+****Income & Spending Link:****
 Average yearly income = $45.7K, closely aligns with moderate spending behavior.
 
-Predictive Insight:
+****Predictive Insight:****
 High total debt and amount received strongly influence higher average credit scores.
+
 ---
 
 ## 🧠 Tools & Technologies
