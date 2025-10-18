@@ -37,27 +37,27 @@ It integrates multiple datasets, including **cards data, user profiles, merchant
 
 The Power BI report includes multiple interactive dashboards:
 
-# Demographic Charts:
+Demographic Charts:
 
 Bar charts for users by state and age.
 Donut charts for gender distribution.
 
-# Card Distribution:
+Card Distribution:
 
 Pie charts showing debit/credit/prepaid ratios.
 Bar charts for total credit limits and expiry ages.
 
-# Merchant Analysis:
+Merchant Analysis:
 
 Clustered bar charts showing total amount by merchant/service type.
 Data tables listing top merchants.
 
-# Transaction Overview:
+Transaction Overview:
 
 Line and bar charts for spending trends.
 Swipe vs. Online transaction comparison.
 
-# AI & Statistical Visuals:
+AI & Statistical Visuals:
 
 Key influencers visual for credit and spending behavior.
 KPIs showing totals (users, spend, debt, limits).
