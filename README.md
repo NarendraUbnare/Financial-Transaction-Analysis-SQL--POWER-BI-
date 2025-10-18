@@ -12,6 +12,17 @@ It integrates multiple datasets, including **cards data, user profiles, merchant
 
 ## ⚙️ Key Features & Components
 
+| Feature                              | Description                                                            |
+| ------------------------------------ | ---------------------------------------------------------------------- |
+| **User Demographics Analysis**       | Visualizes total users, gender ratio, age distribution, and location.  |
+| **Card Insights**                    | Breaks down card types, brands, limits, and expiry patterns.           |
+| **Merchant Category Insights (MCC)** | Evaluates top service sectors and merchants by amount received.        |
+| **Risk & Debt Correlation**          | Compares total debt vs. amount received for financial risk assessment. |
+| **Spending Behavior**                | Tracks spending by card type, state, and merchant category.            |
+| **AI Key Influencers**               | Identifies major factors affecting average credit and spending trends. |
+| **Interactive Dashboard Design**     | Multiple interactive pages for drill-down insights.                    |
+
+
 ### 🧱 Data Model
 
 * **Users Data** – Customer demographics, age, and location data.
