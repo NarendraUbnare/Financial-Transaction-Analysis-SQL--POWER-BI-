@@ -37,47 +37,73 @@ It integrates multiple datasets, including **cards data, user profiles, merchant
 
 The Power BI report includes multiple interactive dashboards:
 
-1. **Overview Dashboard**
+# Demographic Charts:
 
-   * Total Transactions
-   * Monthly Trends
-   * Top 10 Merchants by Spending
-   * Transaction Volume by Card Type
+Bar charts for users by state and age.
+Donut charts for gender distribution.
 
-2. **Customer Insights**
+# Card Distribution:
 
-   * Age Group vs Spending Behavior
-   * Region-wise Customer Distribution
-   * Active Users Trend
+Pie charts showing debit/credit/prepaid ratios.
+Bar charts for total credit limits and expiry ages.
 
-3. **Merchant Analysis**
+# Merchant Analysis:
 
-   * MCC Code-based Spending Breakdown
-   * High-Value Merchant Segments
-   * Transaction Share by Category (e.g., Travel, Food, Utilities)
+Clustered bar charts showing total amount by merchant/service type.
+Data tables listing top merchants.
 
-4. **Card Performance**
+# Transaction Overview:
 
-   * Transaction Volume per Card Type
-   * Average Spend per Cardholder
-   * Fraudulent / High-risk Transaction Monitoring
+Line and bar charts for spending trends.
+Swipe vs. Online transaction comparison.
 
+# AI & Statistical Visuals:
+
+Key influencers visual for credit and spending behavior.
+KPIs showing totals (users, spend, debt, limits).
 ---
 
 ## 🔍 Key Insights & Findings
 
-* **Top Spending Categories:** Travel and Food account for the majority of total transaction value.
-* **Customer Trends:** Younger age groups (18–35) have the highest transaction frequency.
-* **Card Utilization:** Credit cards dominate total spending, with significantly higher average transaction amounts than debit cards.
-* **Regional Insights:** Urban regions show higher transaction density compared to rural areas.
-* **Merchant Analysis:** A small number of merchants contribute disproportionately to total revenue, indicating concentrated spending behavior.
+Balanced Gender Ratio:
+The user base is almost evenly split — 50.8% female and 49.2% male.
 
+Geographic Concentration:
+Highest user activity in California, Texas, and New York.
+
+Card Preference:
+Debit cards dominate with 57% share, followed by credit at 33%.
+
+Credit Exposure:
+Mastercard and Visa together account for ~68% of total credit limits.
+
+Service Spend Trends:
+
+Top spending categories: Money Transfer, Grocery, and Wholesale Clubs.
+
+Indicates focus on daily necessities and remittances.
+
+High Chip Adoption:
+89% of cards are chip-enabled, reflecting secure payment adoption.
+
+Risk & Debt Insights:
+Total debt = $45.9M vs Amount received = $127.4M, showing strong liquidity.
+
+Transaction Mode:
+Swipe transactions ($3.24M) dominate over online ones.
+
+Income & Spending Link:
+Average yearly income = $45.7K, closely aligns with moderate spending behavior.
+
+Predictive Insight:
+High total debt and amount received strongly influence higher average credit scores.
 ---
 
 ## 🧠 Tools & Technologies
 
 * **Power BI Desktop**
 * **Power Query (ETL)**
+* **MYSQL**
 * **DAX (Data Analysis Expressions)**
 * **Microsoft Excel** (for source data management)
 
