@@ -105,6 +105,16 @@ Average yearly income = $45.7K, closely aligns with moderate spending behavior.
 ****Predictive Insight:****
 High total debt and amount received strongly influence higher average credit scores.
 
+Power BI Desktop: Data Modeling, DAX, Interactive Dashboard Design, Data Visualization.
+
+Power Query (M-Code): ETL Processes within Power BI.
+
+Dashboard Visualizations
+
+** 1. Front Page (Home)
+![image alt](
+
+
 ---
 
 ## 🧠 Tools & Technologies
