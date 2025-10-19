@@ -115,16 +115,18 @@ Dashboard Visualizations
 ![image alt](https://github.com/NarendraUbnare/Financial-Transaction-Analysis-SQL--POWER-BI-/blob/main/DP1_Front_Page.png)
 
 **2. Financial Transaction (Overview)**
-![image alt]
+![image alt](https://github.com/NarendraUbnare/Financial-Transaction-Analysis-SQL--POWER-BI-/blob/main/DP2_Financial_Transaction_Overview..png)
 
 **3. Card Overview**
-![image alt]
+![image alt](https://github.com/NarendraUbnare/Financial-Transaction-Analysis-SQL--POWER-BI-/blob/main/DP3_Card_Transactions..png)
 
 **4. MCC Insights & Risk**
 ![image alt]
 
 **5. Transactions & Spending**
 ![image alt]
+
+
 ---
 
 ## 🧠 Tools & Technologies
