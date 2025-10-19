@@ -69,6 +69,7 @@ Swipe vs. Online transaction comparison.
 Key influencers visual for credit and spending behavior.
 KPIs showing totals (users, spend, debt, limits).
 
+
 ---
 
 ## 🔍 Key Insights & Findings
