@@ -112,7 +112,7 @@ Power Query (M-Code): ETL Processes within Power BI.
 Dashboard Visualizations
 
 ** 1. Front Page (Home)
-![image alt](
+![image alt](https://github.com/NarendraUbnare/Financial-Transaction-Analysis-SQL--POWER-BI-/blob/main/DP1_Front_Page.png)
 
 
 ---
