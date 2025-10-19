@@ -121,10 +121,10 @@ Dashboard Visualizations
 ![image alt](https://github.com/NarendraUbnare/Financial-Transaction-Analysis-SQL--POWER-BI-/blob/main/DP3_Card_Transactions..png)
 
 **4. MCC Insights & Risk**
-![image alt]
+![image alt](https://github.com/NarendraUbnare/Financial-Transaction-Analysis-SQL--POWER-BI-/blob/main/DP4_Amount_recived.png)
 
 **5. Transactions & Spending**
-![image alt]
+![image alt](https://github.com/NarendraUbnare/Financial-Transaction-Analysis-SQL--POWER-BI-/blob/main/DP5_Each_Merchant.png)
 
 
 ---
